@@ -2,4 +2,4 @@
 
 # tablite
 
-Turn your data into a modern text table.
+> Turn your data into a modern text table.
