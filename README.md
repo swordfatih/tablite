@@ -9,6 +9,8 @@
 
 ### 📋 Example
 ```js
+const Tablite = require('tablite');
+
 let options = {size: 100, header: true, ratios:[10, 10], align:'l,c'};
 
 let data = [
@@ -17,7 +19,7 @@ let data = [
     ['Violet', '#0000FF', `People link a greyish violet with sophistication, so it can be a good selection for places where you’re trying to make the “right” impression.`],
     ['Blue', '#EE82EE', `People are more likely to tell you that blue is their favourite colour than any other shade. That makes it a safe choice.`]];
 
-console.log(new Table(data, options).toString());
+console.log(new Tablite(data, options).toString());
 ```
 
 ```
