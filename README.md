@@ -24,7 +24,7 @@ console.log(new Tablite(data, options).toString());
 
 ```
 ┌─────────┬─────────┬─────────────────────────────────────────────────────────────────────────────┐
-│ Color   │ hex     │ Description                                                                 │
+│ Color   │   hex   │ Description                                                                 │
 ├─────────┼─────────┼─────────────────────────────────────────────────────────────────────────────┤
 │ Green   │ #008000 │ The colour green has been linked to creativity.                             │
 │         │         │                                                                             │
