@@ -9,7 +9,7 @@
 
 ### 📋 Example
 ```js
-let options = {size: 100, header: true, ratios:[10,10]};
+let options = {size: 100, header: true, ratios:[10, 10], align:'l,c'};
 
 let data = [
     ['Color', 'hex', 'Description'],
