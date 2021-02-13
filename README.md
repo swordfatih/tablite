@@ -8,7 +8,7 @@
 
 ### Table of Contents
 ===
-* [Installation](#☁️installation)
+* [Installation](#borders)
 
 ### ☁️ Installation
 `npm install tablite --save`
