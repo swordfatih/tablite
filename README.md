@@ -142,6 +142,7 @@ Here are the different possible options and their documentation:
 ```
 
 #### Gaps
+Gaps are the separation lines between rows.
 ```
         Name                 space                    fill                     small                    none
 
