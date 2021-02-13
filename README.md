@@ -55,6 +55,7 @@ console.log(new Table(data, options).toString());
 │         │         │ That makes it a safe choice.                                                │
 └─────────┴─────────┴─────────────────────────────────────────────────────────────────────────────┘
 ```
+> Check out the [examples folder](https://github.com/swordfatih/tablite/tree/main/examples) for more.
 
 ### 📝 Documentation
 > Every table used in this documentation was generated with **tablite** itself.
