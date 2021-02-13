@@ -13,7 +13,7 @@
 ```js
 const Table = require('tablite');
 
-let options = {size: 100, header: true, ratios:[10, 10], align:'l,c'};
+let options = {size: 100, header: true, ratios: [10, 10], align: 'l,c'};
 
 let data = [
     ['Color', 'hex', 'Description'],
