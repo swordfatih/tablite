@@ -8,4 +8,7 @@ node_js:
   - 14
 
 before_script:
-  - npm install -g tablite
+  - npm install tablite
+  
+script:
+  - npm run test
