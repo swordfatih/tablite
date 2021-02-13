@@ -7,7 +7,7 @@
 <img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
 
 ### Table of Contents
-* [Installation](#-%EF%B8%8F-installation)
+* [Installation](#%EF%B8%8F-installation)
 * [Example](#-example)
 * [Documentation](#-documentation)
     * [Methods](#methods)
