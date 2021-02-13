@@ -44,4 +44,4 @@ console.log(new Table(data, options).toString());
 ### 📝 Documentation
 
 ### 📜 License
-[license]()
+[MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
