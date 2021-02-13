@@ -13,7 +13,7 @@
     * [Methods](#methods)
     * [Options](#options)
     * [Gaps](#gaps)
-    * [New line character and template literals](#new)
+    * [New line character and template literals](#new-line-character-and-template-literals)
 
 ### ☁️ Installation
 `npm install tablite --save`
