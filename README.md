@@ -24,7 +24,6 @@ let data = [
 console.log(new Table(data, options).toString());
 ```
 
-
 ```
 ┌─────────┬─────────┬─────────────────────────────────────────────────────────────────────────────┐
 │ Color   │   hex   │ Description                                                                 │
@@ -42,7 +41,7 @@ console.log(new Table(data, options).toString());
 ```
 
 ### 📝 Documentation
-
+> Every table used in this documentation was generated with Tablite itself.
 
 ### 📜 License
 [MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
