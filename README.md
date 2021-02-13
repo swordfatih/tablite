@@ -14,6 +14,7 @@
 * [Documentation](#-documentation)
     * [Methods](#methods)
     * [Options](#options)
+    * [Borders](#borders)
     * [Gaps](#gaps)
     * [New line character and template literals](#new-line-character-and-template-literals)
     * [ANSI](#ansi)
