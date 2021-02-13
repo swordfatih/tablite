@@ -1,10 +1,10 @@
-<img src="https://i.ibb.co/wB7JP2X/logo-transparent.png" height="100" align="right"/>
+<img src="https://i.ibb.co/wB7JP2X/logo-transparent.png" width="400" align="right"/>
 
 # tablite
 
 > Turn your data into a modern text table.
 
-<img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
+<img src="https://i.ibb.co/8Dd11hb/example-screen.png" height="100"/>
 
 ### ☁️ Installation
 `npm install tablite --save`
