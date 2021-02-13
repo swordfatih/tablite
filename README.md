@@ -41,7 +41,7 @@ let data = [
 console.log(new Table(data, options).toString());
 ```
 
-```
+```js
 ┌─────────┬─────────┬─────────────────────────────────────────────────────────────────────────────┐
 │ Color   │   hex   │ Description                                                                 │
 ├─────────┼─────────┼─────────────────────────────────────────────────────────────────────────────┤
@@ -148,7 +148,7 @@ Here is a list of the available options and their documentation:
 
 #### Borders
 > Wonder how the following table-ception was generated using **tablite**? Check out the [examples folder](https://github.com/swordfatih/tablite/tree/main/examples).
-```
+```js
        Name            double-line           single-line               dot                 rounded              classical               simple                modern               inversed                none         
                                                                                                                                                                                                                         
    Demonstration   ╔════════╦════════╗   ┌────────┬────────┐   ...................   .--------.--------.   +--------+--------+    ======== ========    ╒════════╤════════╕   ╓────────╥────────╖                        
@@ -160,7 +160,7 @@ Here is a list of the available options and their documentation:
 
 #### Gaps
 Gaps are the separation lines between rows. Here is a list of the available ones:
-```
+```js
         Name                 space                    fill                     small                    none
 
    Demonstration      ┌────────┬────────┐      ┌────────┬────────┐      ┌────────┬────────┐      ┌────────┬────────┐
