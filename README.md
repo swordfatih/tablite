@@ -6,6 +6,10 @@
 
 <img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
 
+### Table of Contents
+===
+* [Installation](#☁️installation)
+
 ### ☁️ Installation
 `npm install tablite --save`
 
