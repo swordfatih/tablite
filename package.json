@@ -1,0 +1,27 @@
+{
+  "name": "tablite",
+  "version": "1.0.0",
+  "description": "Turn your data into a modern text table.",
+  "main": "tablite.js",
+  "author": "swordfatih (Discord: Fatih#6810) (accfldekur@gmail.com)",
+  "scripts": {
+    "test": "node examples/getting-started.js"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swordfatih/tablite.git"
+  },
+  "keywords": [
+    "table",
+    "ascii",
+    "text",
+    "nodejs",
+    "npm"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swordfatih/tablite/issues"
+  },
+  "homepage": "https://github.com/swordfatih/tablite#readme"
+}
