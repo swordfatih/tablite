@@ -130,7 +130,7 @@ Here are the different possible options and their documentation:
 ```
 
 #### Borders
-> The following table was generated using **tablite**. Check out the example folder.
+> The following table was generated using **tablite**. Check out the [examples folder](https://github.com/swordfatih/tablite/tree/main/examples).
 ```
   Name             double-line           single-line           dot                   rounded               classical             simple                modern                inversed              none                 
                                                                                                                                                                                                                         
