@@ -1,3 +1,20 @@
+# faster builds on new travis setup not using sudo
+sudo: false
+
+# cache vendor dirs
+cache:
+  directories:
+    - node_modules
+
 language: node_js
 node_js:
-  - 15
+  - 14
+
+notifications:
+  email: false
+
+before_script:
+  - npm install -g tablite
+
+script:
+  - npm run example/getting-started.js
