@@ -44,7 +44,7 @@ console.log(new Table(data, options).toString());
 > Every table used in this documentation was generated with Tablite itself.
 
 #### Methods
-Here are a list of the simple methods to use your table.
+Here are a list of the simple methods to help you.
 ```js
 ╒═════════════╤═════════════════════════════════════════════════════════════════════╤════════════════════════════════╕
 │    Method   │ Documentation                                                       │ Usage example                  │
