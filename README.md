@@ -99,7 +99,7 @@ Here are several ways to structure your options, they would all give the same ou
 ╘══════════╧═════════════════════════════════════════════════════════════════════════════════════════════════╛
 ```
 
-Here are the different possible options and their documentation:
+Here is a list of the available options and their documentation:
 ```js
 ╒════════════╤═════════════════════════════════════════════════════════════════════════════════╤═══════════════════════════════╕
 │   Option   │ Documentation                                                                   │ Data                          │
@@ -142,7 +142,7 @@ Here are the different possible options and their documentation:
 ```
 
 #### Gaps
-Gaps are the separation lines between rows. Here is a list of the available ones.
+Gaps are the separation lines between rows. Here is a list of the available ones:
 ```
         Name                 space                    fill                     small                    none
 
