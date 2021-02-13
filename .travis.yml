@@ -6,9 +6,6 @@ cache:
 language: node_js
 node_js:
   - 14
-
-before_script:
-  - npm install tablite
   
 script:
   - npm run test
