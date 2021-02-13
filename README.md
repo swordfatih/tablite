@@ -135,55 +135,55 @@ Here are the different possible options and their documentation:
       Name       Demonstration
 
    double-line   ╔════════╦════════╗
-                 ║    I   ║  live  ║
+                 ║    I   ║  love  ║
                  ╠════════╬════════╣
                  ║   Tab  ║  lite  ║
                  ╚════════╩════════╝
 
    single-line   ┌────────┬────────┐
-                 │    I   │  live  │
+                 │    I   │  love  │
                  ├────────┼────────┤
                  │   Tab  │  lite  │
                  └────────┴────────┘
 
        dot       ...................
-                 .    I   .  live  .
+                 .    I   .  love  .
                  ...................
                  .   Tab  .  lite  .
                  ...................
 
      rounded     .--------'--------.
-                 |    I   |  live  |
+                 |    I   |  love  |
                  :--------+--------:
                  |   Tab  |  lite  |
                  .--------'--------.
 
     classical    +--------+--------+
-                 |    I   |  live  |
+                 |    I   |  love  |
                  +--------+--------+
                  |   Tab  |  lite  |
                  +--------+--------+
 
      simple       ======== ========
-                      I      live
+                      I      love
                   ======== ========
                      Tab     lite
                   ======== ========
 
      modern      ╒════════╤════════╕
-                 │    I   │  live  │
+                 │    I   │  love  │
                  ╞════════╪════════╡
                  │   Tab  │  lite  │
                  ╘════════╧════════╛
 
     inversed     ╓────────╥────────╖
-                 ║    I   ║  live  ║
+                 ║    I   ║  love  ║
                  ╟────────╫────────╢
                  ║   Tab  ║  lite  ║
                  ╙────────╨────────╜
 
       none
-                      I      live
+                      I      love
 
                      Tab     lite
 ```
