@@ -4,6 +4,8 @@
 
 > Turn your data into a modern text table.
 
+<img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
+
 ### ☁️ Installation
 `npm install tablite --save`
 
@@ -21,6 +23,7 @@ let data = [
 
 console.log(new Table(data, options).toString());
 ```
+
 
 ```
 ┌─────────┬─────────┬─────────────────────────────────────────────────────────────────────────────┐
