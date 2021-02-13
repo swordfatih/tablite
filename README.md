@@ -41,7 +41,7 @@ console.log(new Table(data, options).toString());
 ```
 
 ### 📝 Documentation
-> Every table used in this documentation was generated with Tablite itself.
+> Every table used in this documentation was generated with **tablite** itself.
 
 #### Methods
 Here are a list of the simple methods to help you.
@@ -130,8 +130,8 @@ Here are the different possible options and their documentation:
 ```
 
 #### Borders
+> The following table was generated using **tablite**. Check out the example folder.
 ```
-
       Name       Demonstration
 
    double-line   ╔════════╦════════╗
