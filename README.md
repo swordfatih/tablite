@@ -18,6 +18,7 @@
     * [Gaps](#gaps)
     * [New line character and template literals](#new-line-character-and-template-literals)
     * [ANSI](#ansi)
+* [Badges](#-badges)
 * [License](#-license)
 
 ***
@@ -187,6 +188,9 @@ console.log(new Table(data).toString());
 #### ANSI
 ANSI commands such as colors are also supported: the table's size won't be changed. Howewer, I can't predict if every ANSI commands work with tablite.
 Just keep in mind that if you use color commands in your table, make sure there are on a full row; otherwise colors will spread on the borders.
+
+### 🏅 Badges
+[![Build Status](https://travis-ci.com/swordfatih/tablite.svg?branch=main)](https://travis-ci.com/swordfatih/tablite)
 
 ### 📜 License
 [MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
