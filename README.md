@@ -157,7 +157,7 @@ Gaps are the separation lines between rows. Here is a list of the available ones
 You can use the `\n` character wherever you like in your data. It works. You can also use the template literals (\`...\`) for your complex cells.
 
 ```js
-const Table = require('./index.js');
+const Table = require('tablite');
 
 const data = [ ['I', 'love'], 
 ['Tablite', `Here is a very
