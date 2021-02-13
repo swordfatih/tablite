@@ -176,7 +176,7 @@ You can use the `\n` character wherever you like in your data. It works. You can
 ```js
 const Table = require('tablite');
 
-const data = [ ['I', 'love'], 
+const data = [['I', 'love'], 
 ['Tablite', `Here is a very
 complex cell that will print 
 on several lines..`]];
