@@ -6,6 +6,8 @@
 
 <img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
 
+***
+
 ### Table of Contents
 * [Installation](#%EF%B8%8F-installation)
 * [Example](#-example)
@@ -16,6 +18,8 @@
     * [New line character and template literals](#new-line-character-and-template-literals)
     * [ANSI](#ansi)
 * [License](#-license)
+
+***
 
 ### ☁️ Installation
 `npm install tablite --save`
