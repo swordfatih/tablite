@@ -1,11 +1,3 @@
-# cache vendor dirs
-cache:
-  directories:
-    - node_modules
-
 language: node_js
 node_js:
   - 14
-  
-script:
-  - npm run test
