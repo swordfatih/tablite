@@ -15,6 +15,3 @@ notifications:
 
 before_script:
   - npm install -g tablite
-
-script:
-  - npm run example/getting-started.js
