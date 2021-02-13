@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/wB7JP2X/logo-transparent.png" width="400" align="right"/>
+<p align="center"><img src="https://i.ibb.co/wB7JP2X/logo-transparent.png" width="300"/></p>
 
 # tablite
 
