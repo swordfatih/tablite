@@ -42,3 +42,6 @@ console.log(new Table(data, options).toString());
 ```
 
 ### 📝 Documentation
+
+### 📜 License
+[license]()
