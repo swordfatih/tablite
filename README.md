@@ -7,9 +7,9 @@
 <img src="https://i.ibb.co/8Dd11hb/example-screen.png" width="400"/>
 
 ### Table of Contents
-* [Installation](#installation)
-* [Example](#example)
-* [Documentation](#documentation)
+* [Installation](#☁️-installation)
+* [Example](#📋-example)
+* [Documentation](#📝-documentation)
     * [Methods](#methods)
     * [Options](#options)
     * [Gaps](#gaps)
