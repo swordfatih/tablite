@@ -153,5 +153,23 @@ Gaps are the separation lines between rows. Here is a list of the available ones
                       └────────┴────────┘      └────────┴────────┘      └────────┴────────┘
 ```
 
+#### New line character and template literals
+You can use the `\n` character wherever you like in your data. It works. You can also use the template literals (\`...\`) for your complex cells.
+
+```js
+const Table = require('./index.js');
+
+const data = [ ['I', 'love'], 
+['Tablite', `Here is a very
+complex cell that will print 
+on several lines..`]];
+
+console.log(new Table(data).toString());
+```
+
+#### ANSI
+ANSI commands such as colors are also supported: the table's size won't be changed. Howewer, I can't predict if every ANSI commands work with tablite.
+Just keep in mind that if you use color commands in your table, make sure there are on a full row; otherwise colors will spread on the borders.
+
 ### 📜 License
 [MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
