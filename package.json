@@ -5,7 +5,7 @@
   "main": "tablite.js",
   "author": "swordfatih (Discord: Fatih#6810) (accfldekur@gmail.com)",
   "scripts": {
-    "test": "node examples/getting-started.js"
+    "test": "node tablite.js"
   },
   "dependencies": {},
   "repository": {
