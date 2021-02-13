@@ -120,13 +120,23 @@ Here are the different possible options and their documentation:
 │            │ columns.                                                                        │ string separated by commas    │
 ╞════════════╪═════════════════════════════════════════════════════════════════════════════════╪═══════════════════════════════╡
 │   ratios   │ Specify columns' ratio. For example: [10,10] will apply 10% to the first        │ Array of percentages or one   │
-│            │ column, 10% to the second and it will split the remaining 80% between remaining │ string separated by commas    │
-│            │ columns if they exist.                                                          │                               │
+│            │ column, 10% to the second and it will split the remaining 80% between remaining │ string separated by commas or │
+│            │ columns if they exist.                                                          │ an integer as percentage      │
 │            │ Otherwise they will all be added to the last column.                            │                               │
 ╞════════════╪═════════════════════════════════════════════════════════════════════════════════╪═══════════════════════════════╡
 │    ansi    │ The table adapt a row's width when it contains an ANSI command.                 │ Boolean                       │
 │            │ Disable this option if your terminal doesn't recognize ANSI commands.           │                               │
 ╘════════════╧═════════════════════════════════════════════════════════════════════════════════╧═══════════════════════════════╛
+```
+
+#### Borders
+```
+single-line (default)
+┌────────┬────────┐  
+│    I   │   Tab  │ 
+├────────┼────────┤
+│  love  │  lite  │
+└────────┴────────┘ 
 ```
 
 ### 📜 License
