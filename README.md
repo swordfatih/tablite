@@ -14,6 +14,8 @@
     * [Options](#options)
     * [Gaps](#gaps)
     * [New line character and template literals](#new-line-character-and-template-literals)
+    * [ANSI](#ansi)
+* [License](#-license)
 
 ### ☁️ Installation
 `npm install tablite --save`
