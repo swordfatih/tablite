@@ -43,5 +43,6 @@ console.log(new Table(data, options).toString());
 
 ### 📝 Documentation
 
+
 ### 📜 License
 [MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
