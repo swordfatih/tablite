@@ -190,7 +190,7 @@ ANSI commands such as colors are also supported: the table's size won't be chang
 Just keep in mind that if you use color commands in your table, make sure there are on a full row; otherwise colors will spread on the borders.
 
 ### 🏅 Badges
-[![Build Status](https://travis-ci.com/swordfatih/tablite.svg?branch=main)](https://travis-ci.com/swordfatih/tablite)
+[![Build Status](https://travis-ci.com/swordfatih/tablite.svg?branch=main)](https://travis-ci.com/swordfatih/tablite) [![Coverage Status](https://coveralls.io/repos/github/swordfatih/tablite/badge.svg?branch=main)](https://coveralls.io/github/swordfatih/tablite?branch=main)
 
 ### 📜 License
 [MIT](https://github.com/swordfatih/tablite/blob/main/LICENSE) © [swordfatih](https://github.com/swordfatih/)
